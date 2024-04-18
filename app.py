@@ -42,7 +42,7 @@ st.sidebar.subheader('Mohammad Ali :name_badge:')
 st.title("Deep Learning Model for X-Ray Image Classification")
 st.sidebar.title('Description :scroll:')
 st.sidebar.write("Medical imaging plays a crucial role in diagnosing various diseases and conditions, with X-ray imaging being one of the most widely used modalities. However, interpreting X-ray images can be challenging and time-consuming for healthcare professionals. To assist in this process, deep learning models based on Convolutional Neural Networks (CNNs) have shown promising results in automating X-ray image analysis")
-st.sidebar.title('Contact :telephone_receiver:')
+st.sidebar.title('Connect :link:')
 st.sidebar.link_button('Linkdin :large_blue_diamond:', url='https://www.linkedin.com/in/mohdali02/')
 st.sidebar.link_button('Github  :black_large_square:', url='github.com/Mohd-Ali2')
 # File uploader
